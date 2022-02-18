@@ -1,4 +1,4 @@
-module github.com/tergey-telpuk/migrate/v4
+module github.com/sergey-telpuk/migrate/v4
 
 require (
 	cloud.google.com/go/spanner v1.28.0
